@@ -1,0 +1,2 @@
+pymagnitude==0.1.17
+jupyterlab==0.32.1
